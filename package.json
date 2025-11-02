@@ -1,0 +1,20 @@
+{
+  "name": "acr",
+  "version": "1.0.0",
+  "description": "AI Code Review",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^24.9.2",
+    "prettier": "^3.6.2",
+    "typescript": "^5.9.3"
+  }
+}
